@@ -6,7 +6,6 @@ def differenceOfSums(n: int, m: int) -> int:
         else:
             num2 += i 
 
-    print(num1, num2)       
     return num1 - num2
 
 differenceOfSums(10, 3)
